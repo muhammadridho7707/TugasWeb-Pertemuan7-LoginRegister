@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "id": "user_6aace57d80ae3",
+        "nama": "da",
+        "email": "dada@gmail.com",
+        "password": "$2y$12$KpqAK.xJ.IO64ifFwqrmku3Pl7NiWBs\/iKDTSJBsDz1Nz.7mfPj.K",
+        "created at": "2026-09-18 07:17:17"
+    },
+    {
+        "id": "user_6aace5b537639",
+        "nama": "ha",
+        "email": "haha@email.com",
+        "password": "$2y$12$7NEpjgjAbLwxAtqOuEv9QeQdnBklbun91qyUL8.pSByK1UcQYi7Xa",
+        "created at": "2026-09-18 07:18:13"
+    },
+    {
+        "id": "user_6aace98430956",
+        "nama": "hai",
+        "email": "yukinobijin@gmail.com",
+        "password": "$2y$12$9mIG\/TiyxUGEEuz3AZvuzOrBM6ZSwlTsk.hfQv2NeMdQU95sul88q",
+        "created at": "2026-09-18 07:34:28"
+    }
+]

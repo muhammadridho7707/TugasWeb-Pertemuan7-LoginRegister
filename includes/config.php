@@ -21,7 +21,7 @@ function saveUsers(array $users): bool
     return file_put_contents(USERS_FILE, $json) !== false; 
 }
 
-function findUser(string $email): ?array
+function findUserByEmail(string $email): ?array
 {
     $users = getUsers();
     foreach ($users as $user) {
